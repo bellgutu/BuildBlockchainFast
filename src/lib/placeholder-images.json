@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "abel-gutu-headshot",
+      "description": "Professional headshot of Abel Gutu, founder of BuildBlockchainFast.",
+      "imageUrl": "https://images.unsplash.com/photo-1530983822321-fcac2d3c0f06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjUwNjkwNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "headshot portrait"
+    }
+  ]
 }
