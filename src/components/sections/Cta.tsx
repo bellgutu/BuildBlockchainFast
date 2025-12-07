@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import { NextSlot } from "@/components/NextSlot";
 import { ArrowRight } from "lucide-react";
 
-const CALENDLY_URL = "https://calendly.com/your-username/30min";
+const CALENDLY_URL = "https://calendly.com/abelgutu";
 
 export function Cta() {
   return (

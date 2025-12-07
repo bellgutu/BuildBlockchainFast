@@ -9,7 +9,7 @@ import {
 } from "@/components/ui/card";
 import { Check } from "lucide-react";
 
-const CALENDLY_URL = "https://calendly.com/your-username/30min";
+const CALENDLY_URL = "https://calendly.com/abelgutu";
 
 const includes = [
   "Complete smart contract suite",

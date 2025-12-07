@@ -14,7 +14,7 @@ const navLinks = [
   { href: "#faq", label: "FAQ" },
 ];
 
-const CALENDLY_URL = "https://calendly.com/your-username/30min";
+const CALENDLY_URL = "https://calendly.com/abelgutu";
 
 export function Header() {
   const [isOpen, setIsOpen] = useState(false);
