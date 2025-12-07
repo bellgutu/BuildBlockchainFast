@@ -16,7 +16,7 @@ const caseStudies = [
     description:
       "Complete Continuous Verifiable Reality framework with oracle network, digital twins, and parametric insurance.",
     tags: ["#RWA", "#Oracles", "#Commodities", "#Insurance"],
-    link: "#",
+    link: "https://proof-ledger.vercel.app/asset-verification/commodities",
   },
   {
     title: "Full DeFi Protocol",
@@ -32,7 +32,7 @@ const caseStudies = [
     description:
       "NFT digital twins for luxury watches with instant verification and robust provenance tracking on-chain.",
     tags: ["#Luxury", "#NFT", "#Authentication", "#Web3"],
-    link: "#",
+    link: "https://lux-vault-fire.vercel.app",
   },
 ];
 
